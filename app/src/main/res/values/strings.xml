@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">App Portfolio</string>
+    <string name="button1">Popular Movies</string>
+    <string name="button1_desc">This button will launch Popular Movies</string>
+    <string name="button2">Stock Hawk</string>
+    <string name="button2_desc">This button will launch Stock Hawk</string>
+    <string name="button3">Build It Bigger</string>
+    <string name="button3_desc">This button will launch Build It Bigger</string>
+    <string name="button4">Make you App Material</string>
+    <string name="button4_desc">This button will launch Make you App Material</string>
+    <string name="button5">Go Ubiquitous</string>
+    <string name="button5_desc">This button will launch Go Ubiquitous</string>
+    <string name="button6">Capstone Project</string>
+    <string name="button6_desc">This button will launch my Capstone Project</string>
 </resources>
